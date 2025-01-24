@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bashir Ismail</h1>
 <h3 align="center">A friendly web developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techybash&label=Profile%20views&color=0e75b6&style=flat" alt="techybash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bismacodes&label=Profile%20views&color=0e75b6&style=flat" alt="bismacodes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techybash" alt="techybash" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bismacodes" alt="bismacodes" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/uncle__kabash" target="blank"><img src="https://img.shields.io/twitter/follow/uncle__kabash?logo=twitter&style=for-the-badge" alt="uncle__kabash" /></a> </p>
 
@@ -30,8 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bismacode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bismacode" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techybash&show_icons=true&locale=en&layout=compact" alt="techybash" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bismacodes&show_icons=true&locale=en&layout=compact" alt="bismacodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techybash&show_icons=true&locale=en" alt="techybash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bismacodes&show_icons=true&locale=en" alt="bismacodes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techybash&" alt="techybash" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bismacodes&" alt="bismacodes" /></p>
