@@ -19,9 +19,9 @@
 
   
 <img src="https://komarev.com/ghpvc/?username=bismacodes&&style=flat-square" align="center" />
-<br />
 <a href="https://www.buymeacoffee.com/bismacodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bismacode" /></a>
 <br/>  
+<br/>
 
 <h2 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Programming languages & tools</h1>
 <div align="center">  
