@@ -66,7 +66,8 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bismacodes&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=bismacodes&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techybash&show_icons=true&locale=en&layout=compact" alt="techybash" />
 </div>  
 
 
