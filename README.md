@@ -68,15 +68,10 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bismacodes&show_icons=true&count_private=true&hide_border=true" align="left" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bismacodes&show_icons=true&locale=en&layout=compact" alt="techybash" />
-</div>  
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=bismacodes&&style=flat-square" align="center" />
+    <img src="https://komarev.com/ghpvc/?username=bismacodes&&style=flat-square" align="center" />
 </div>  
   
-
+<br>
 <h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/bismacodes"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bismacode" /></a></p><br><br>
 
