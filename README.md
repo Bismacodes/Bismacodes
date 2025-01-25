@@ -2,7 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
+# I'm Bashir Ismail
+<hr>
 ### <div align="center">I'm Bashir Ismail, a full-stack freelance web developer from Nigeria 👨‍💻 working remotely since 2013 🚀</div>  
   
 
